@@ -50,11 +50,7 @@ function setup() {
 
 }
 function draw() {
-  
-  if (backgroundImg) {
-   background(backgroundImg); 
-  }
-  
+  background("lightgreen");
  
   textSize(20);
   fill("black") 
